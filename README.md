@@ -1,4 +1,4 @@
-# MySecondProject
+# MySecondProject in AWS
 My second project in AWS using services- Cloudformation,and SNS
 Project : Publishing Amazon SNS Messages Privately
 Objective
