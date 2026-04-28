@@ -1,4 +1,4 @@
-# MySecondProject
+# MySecondProject in AWS
 My second project in AWS using services- Cloudformation,and SNS
 Project : Publishing Amazon SNS Messages Privately
 Objective
@@ -9,3 +9,4 @@ Patient reports are stored securely
 Messages are published privately using Amazon SNS
 SNS is accessed from inside a VPC
 EC2 instance sends notifications securely
+
